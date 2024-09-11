@@ -2,7 +2,7 @@
 User APIs of Standard Integrated Cell Assembly
 
 In Development.   
-**SICA** is a operating system for automated Biolab equipments.   
+**SICA** is a operating system to automate Biolab equipments.   
 **SICApi** defines the standard format of user APIs to control the operating system.
 
 ## Our principles
