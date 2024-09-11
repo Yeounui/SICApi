@@ -5,7 +5,7 @@ In Development.
 **SICA** is a operating system to automate Biolab equipments.   
 **SICApi** defines the standard format of user APIs to control the operating system.
 
-## Our principles
+## Principles
 #### 1. Only Python enough for wet-lab researchers.   
 Python is a familiar language to Biology researchers. However, in order to introduce automation into the laboratory, learning C is essential to access embedded systems. Since they are too busy to do this, SICApi is designed to control a operating system with just python. In addition to conducting experiments, it is also designed that a framework of new equipment can be easily integrated into the system through built-in APIs.
 
