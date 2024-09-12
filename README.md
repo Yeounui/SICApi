@@ -13,4 +13,4 @@ Python is a familiar language to Biology researchers. However, in order to intro
 Each object in experiment can be expressed as a value or a submatrix of multi-dimensional matrix. For example, 96 well plate is expressed to a 2D matrix with 8 rows and 12 columns. Here, depending on experiment process, extra dimensions may be expanded to the matrix. This matrix abstraction is intuitive to illustrate experimental variables subjecting to objects throughout experiment progress. In addition, this matrix structure enables to construct direct pipeline with Machine Learning API packages. This will help to alleviate bottleneck problem in a process between AI-driven canditate molecule selection and actual validation.
 
 #### 3. Keep it Pythonic
-Operating system of SICA is programmed with C++ and Python package SICApi wraps it. By reducing interference of static variables, SICApi can be coded with no difference as Python encourages.
+Operating system of SICA is programmed with C++ and this Python package wraps it. By reducing interference of static variables, SICApi can be coded with no difference as Python encourages.
